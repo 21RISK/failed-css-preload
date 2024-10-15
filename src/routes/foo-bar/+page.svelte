@@ -23,6 +23,7 @@
     Let's add some css on this page, to check pre-fetching of code/data.
     */
     h1 {
-        color: green;
+        color: teal;
+        font-size: large;
     }
 </style>
