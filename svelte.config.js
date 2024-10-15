@@ -12,7 +12,7 @@ const config = {
 		adapter: vercel(),
 		version: {
 			name: VERSION,
-			pollInterval: 1000*60*3
+			// pollInterval: 1000*60*3
 		}
 	}
 };
