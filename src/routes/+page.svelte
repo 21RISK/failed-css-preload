@@ -22,7 +22,7 @@ updated=<span>{$updated}</span>
 <div style="display: flex; flex-direction: column">
     <a href="/foo-bar" data-sveltekit-preload-data="hover">Foo-bar page (data-sveltekit-preload-data="hover")</a>
     <!-- <a href="/foo-bar">Foo-bar page (no tags)</a> -->
-    <a href="/foo-bar" data-sveltekit-reload>Foo-bar page (data-sveltekit-reload)</a>
+    <!-- <a href="/foo-bar" data-sveltekit-reload>Foo-bar page (data-sveltekit-reload)</a> -->
 </div>
 
 
